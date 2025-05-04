@@ -34,7 +34,7 @@ function HomeUI() {
       <AppBar position="static" sx={{ backgroundColor: "#111" }}>
         <Toolbar>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Sorawit Leejaroen
+          Chakhris Lapimai
           </Typography>
           <Button color="inherit">Work</Button>
           <Button color="inherit">About</Button>
@@ -63,7 +63,7 @@ function HomeUI() {
             {/* LEFT: Text */}
             <Box sx={{ flex: 1 }}>
               <Typography variant="h3" fontWeight="bold" gutterBottom>
-                HI, I AM <br /> Sorawit Leejaroen
+                HI, I AM <br /> Chakhris Lapimai
               </Typography>
               <Typography variant="body1" sx={{ mb: 3 }}>
                 นักพัฒนาเว็บไซต์ฝั่ง frontend ชาวไทย ที่มีความหลงใหลในการสร้างเว็บไซต์ทั้งมือถือและบนเดสก์ท็อปที่สวยงามและใช้งานง่าย
@@ -239,7 +239,7 @@ function HomeUI() {
                 LET'S CONNECT
               </Typography>
               <Typography variant="body1" gutterBottom>
-                Say hello at chanintornmc@sau.ac.th
+                Say hello at saumax1102@gmail.com
               </Typography>
               <Typography variant="body1" gutterBottom>
                 For more info, here's my{" "}
@@ -326,7 +326,7 @@ function HomeUI() {
           </Stack>
         </Container>
         <Typography variant="caption" color="text.secondary" mt={2} textAlign="center">
-            © 2025 Sorawit Leejaroen. All rights reserved.
+            © 2025 Chakhris Lapimai. All rights reserved.
           </Typography>
       </Box>
     </ThemeProvider>
